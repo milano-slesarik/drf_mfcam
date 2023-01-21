@@ -1,3 +1,3 @@
-from mixin import ModelFieldChoicesActionMixin
+from .mixin import ModelFieldChoicesActionMixin
 
 __all__ = ["ModelFieldChoicesActionMixin"]
